@@ -1,4 +1,4 @@
-### Hi there, I'm Arnav 👋
+### Hi, I'm Arnav 👋
 
 <!--
 **Arnav33R/Arnav33R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
