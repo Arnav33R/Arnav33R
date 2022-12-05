@@ -1,6 +1,6 @@
-### Hi, I'm Arnav 👋
+## Hi, I'm Arnav 👋
 
-## About Me:
+### About Me:
 
 
 <!--
