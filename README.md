@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am currently a third-year student at the University of California, Davis, majoring in *Computer Science* and minoring in Technology Management and Italian. 
+I am currently a third-year student at the University of California, Davis, majoring in Computer Science and minoring in Technology Management and Italian. 
 
 I view everyday as an opportunity to learn and grow, and I believe in using my skills to create a meaningful impact. Problem solving, and working on challenging tasks are things I enjoy.
 
