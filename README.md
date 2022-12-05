@@ -18,7 +18,7 @@ I also enjoy getting involved on campus and trying new adventures and activities
 * [CodeLab](https://www.codelabdavis.com/), a club at UC Davis where I was a Full Stack Software Developer. I developed a full-stack mobile application that would recommend restaurants to users based on their preferences. I worked on consuming Yelp's REST API, creating a caching system for restaurants using MongoDB and Mongoose, creating Backend APIs using Express.js and Node.js, as well as working on the frontend in React Native. 
 * [#include at Davis](https://includeatdavis.notion.site/includeatdavis/include-at-Davis-Fall-2022-96b8bad222444719a04fbeca1b714bb6), where I was a Frontend Developer and developed four responsive websites for non-profit organizations using React.js, HTML and CSS
 * [CS Tutoring](https://sites.google.com/view/cs-tutoring-ucd/?pli=1), where I volunteered as a student tutor and tutored students taking intro-level programming classes at UC Davis in C/C++/Python. 
-* [UC Davis Table Tennis Club](https://ucdttc.wixsite.com/home), where I served as President. I organized training and practice sessions, coordinated our club's participation in the National Collegiate Table Tennis Association, and significantly improved club membership.
+* [UC Davis Table Tennis Club](https://ucdttc.wixsite.com/home), where I served as President. I organized training and practice sessions, coordinated our club's participation in the National Collegiate Table Tennis Association, and significantly inreased club membership.
 
 <!--
 **Arnav33R/Arnav33R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
