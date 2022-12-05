@@ -10,7 +10,7 @@ I also enjoy getting involved on campus and trying new adventures and activities
 
 ### Current Work
 
-* 
+* [Davis Computer Science Club](http://www.google.fr/)
 
 ### Past Work
 
