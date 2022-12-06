@@ -8,6 +8,8 @@ I view everyday as an opportunity to learn and grow, and I believe in using my s
 
 I also enjoy getting involved on campus and trying new adventures and activities - I have been part of several organizations and clubs, held multiple leadership positions, been part of a student-startup, and I have also studied abroad!
 
+My interests and experiences lie primarily in Full-Stack Software Development and Machine Learning, and I have worked on several projects to hone my skills. I am currently looking for internships for Summer 2023!
+
 ### Current Work
 
 * [Google Developer Student Club](https://ucdavisdsc.com/), where I am a Tech Lead working on a Machine Learning Project.
